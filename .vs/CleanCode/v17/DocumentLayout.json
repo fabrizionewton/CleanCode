@@ -1,0 +1,347 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fabri\\source\\repos\\CleanCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E884DCB4-498F-4BD8-9265-201F8C194297}|5 - CleanCode_Tests\\5 - CleanCode_Tests.csproj|c:\\users\\fabri\\source\\repos\\cleancode\\5 - cleancode_tests\\calculadoradedescontotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E884DCB4-498F-4BD8-9265-201F8C194297}|5 - CleanCode_Tests\\5 - CleanCode_Tests.csproj|solutionrelative:5 - cleancode_tests\\calculadoradedescontotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63AD15B-3AC3-4D9B-B46F-5D0D5FBA9978}|0 - ProjetoNaoOtimizado\\0 - CodigoNaoOtimizado.csproj|c:\\users\\fabri\\source\\repos\\cleancode\\0 - projetonaootimizado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63AD15B-3AC3-4D9B-B46F-5D0D5FBA9978}|0 - ProjetoNaoOtimizado\\0 - CodigoNaoOtimizado.csproj|solutionrelative:0 - projetonaootimizado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63AD15B-3AC3-4D9B-B46F-5D0D5FBA9978}|0 - ProjetoNaoOtimizado\\0 - CodigoNaoOtimizado.csproj|c:\\users\\fabri\\source\\repos\\cleancode\\0 - projetonaootimizado\\cal1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63AD15B-3AC3-4D9B-B46F-5D0D5FBA9978}|0 - ProjetoNaoOtimizado\\0 - CodigoNaoOtimizado.csproj|solutionrelative:0 - projetonaootimizado\\cal1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E884DCB4-498F-4BD8-9265-201F8C194297}|5 - CleanCode_Tests\\5 - CleanCode_Tests.csproj|c:\\users\\fabri\\source\\repos\\cleancode\\5 - cleancode_tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E884DCB4-498F-4BD8-9265-201F8C194297}|5 - CleanCode_Tests\\5 - CleanCode_Tests.csproj|solutionrelative:5 - cleancode_tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A0F6DA-1A1E-403E-93EC-983F3BBDAB8E}|4 - ProjetoOtimizado\\4 - ProjetoOtimizado.csproj|c:\\users\\fabri\\source\\repos\\cleancode\\4 - projetootimizado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A0F6DA-1A1E-403E-93EC-983F3BBDAB8E}|4 - ProjetoOtimizado\\4 - ProjetoOtimizado.csproj|solutionrelative:4 - projetootimizado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A0F6DA-1A1E-403E-93EC-983F3BBDAB8E}|4 - ProjetoOtimizado\\4 - ProjetoOtimizado.csproj|c:\\users\\fabri\\source\\repos\\cleancode\\4 - projetootimizado\\statusdaconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A0F6DA-1A1E-403E-93EC-983F3BBDAB8E}|4 - ProjetoOtimizado\\4 - ProjetoOtimizado.csproj|solutionrelative:4 - projetootimizado\\statusdaconta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A0F6DA-1A1E-403E-93EC-983F3BBDAB8E}|4 - ProjetoOtimizado\\4 - ProjetoOtimizado.csproj|c:\\users\\fabri\\source\\repos\\cleancode\\4 - projetootimizado\\constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A0F6DA-1A1E-403E-93EC-983F3BBDAB8E}|4 - ProjetoOtimizado\\4 - ProjetoOtimizado.csproj|solutionrelative:4 - projetootimizado\\constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A0F6DA-1A1E-403E-93EC-983F3BBDAB8E}|4 - ProjetoOtimizado\\4 - ProjetoOtimizado.csproj|c:\\users\\fabri\\source\\repos\\cleancode\\4 - projetootimizado\\calculadoradedesconto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A0F6DA-1A1E-403E-93EC-983F3BBDAB8E}|4 - ProjetoOtimizado\\4 - ProjetoOtimizado.csproj|solutionrelative:4 - projetootimizado\\calculadoradedesconto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A0F6DA-1A1E-403E-93EC-983F3BBDAB8E}|4 - ProjetoOtimizado\\4 - ProjetoOtimizado.csproj|c:\\users\\fabri\\source\\repos\\cleancode\\4 - projetootimizado\\implementa\u00E7\u00F5es\\strategy\\descontoclienteespecial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A0F6DA-1A1E-403E-93EC-983F3BBDAB8E}|4 - ProjetoOtimizado\\4 - ProjetoOtimizado.csproj|solutionrelative:4 - projetootimizado\\implementa\u00E7\u00F5es\\strategy\\descontoclienteespecial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A0F6DA-1A1E-403E-93EC-983F3BBDAB8E}|4 - ProjetoOtimizado\\4 - ProjetoOtimizado.csproj|c:\\users\\fabri\\source\\repos\\cleancode\\4 - projetootimizado\\implementa\u00E7\u00F5es\\strategy\\descontoclienteouro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A0F6DA-1A1E-403E-93EC-983F3BBDAB8E}|4 - ProjetoOtimizado\\4 - ProjetoOtimizado.csproj|solutionrelative:4 - projetootimizado\\implementa\u00E7\u00F5es\\strategy\\descontoclienteouro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A0F6DA-1A1E-403E-93EC-983F3BBDAB8E}|4 - ProjetoOtimizado\\4 - ProjetoOtimizado.csproj|c:\\users\\fabri\\source\\repos\\cleancode\\4 - projetootimizado\\implementa\u00E7\u00F5es\\strategy\\descontoclientepadrao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A0F6DA-1A1E-403E-93EC-983F3BBDAB8E}|4 - ProjetoOtimizado\\4 - ProjetoOtimizado.csproj|solutionrelative:4 - projetootimizado\\implementa\u00E7\u00F5es\\strategy\\descontoclientepadrao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A0F6DA-1A1E-403E-93EC-983F3BBDAB8E}|4 - ProjetoOtimizado\\4 - ProjetoOtimizado.csproj|c:\\users\\fabri\\source\\repos\\cleancode\\4 - projetootimizado\\4 - projetootimizado.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{81A0F6DA-1A1E-403E-93EC-983F3BBDAB8E}|4 - ProjetoOtimizado\\4 - ProjetoOtimizado.csproj|solutionrelative:4 - projetootimizado\\4 - projetootimizado.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E1AF07-A51F-4CE2-A7C6-DC14D00130EF}|3 - SegundaETerceiraMelhoria\\3 - SegundaETerceiraMelhoria.csproj|c:\\users\\fabri\\source\\repos\\cleancode\\3 - segundaeterceiramelhoria\\calculadoradedesconto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E1AF07-A51F-4CE2-A7C6-DC14D00130EF}|3 - SegundaETerceiraMelhoria\\3 - SegundaETerceiraMelhoria.csproj|solutionrelative:3 - segundaeterceiramelhoria\\calculadoradedesconto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A0F6DA-1A1E-403E-93EC-983F3BBDAB8E}|4 - ProjetoOtimizado\\4 - ProjetoOtimizado.csproj|c:\\users\\fabri\\source\\repos\\cleancode\\4 - projetootimizado\\interfaces\\icalculadoradescontosatutscontafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A0F6DA-1A1E-403E-93EC-983F3BBDAB8E}|4 - ProjetoOtimizado\\4 - ProjetoOtimizado.csproj|solutionrelative:4 - projetootimizado\\interfaces\\icalculadoradescontosatutscontafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A0F6DA-1A1E-403E-93EC-983F3BBDAB8E}|4 - ProjetoOtimizado\\4 - ProjetoOtimizado.csproj|c:\\users\\fabri\\source\\repos\\cleancode\\4 - projetootimizado\\interfaces\\icalculadoradescontoporfidelidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A0F6DA-1A1E-403E-93EC-983F3BBDAB8E}|4 - ProjetoOtimizado\\4 - ProjetoOtimizado.csproj|solutionrelative:4 - projetootimizado\\interfaces\\icalculadoradescontoporfidelidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A0F6DA-1A1E-403E-93EC-983F3BBDAB8E}|4 - ProjetoOtimizado\\4 - ProjetoOtimizado.csproj|c:\\users\\fabri\\source\\repos\\cleancode\\4 - projetootimizado\\interfaces\\icalculadoradesconto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A0F6DA-1A1E-403E-93EC-983F3BBDAB8E}|4 - ProjetoOtimizado\\4 - ProjetoOtimizado.csproj|solutionrelative:4 - projetootimizado\\interfaces\\icalculadoradesconto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A0F6DA-1A1E-403E-93EC-983F3BBDAB8E}|4 - ProjetoOtimizado\\4 - ProjetoOtimizado.csproj|c:\\users\\fabri\\source\\repos\\cleancode\\4 - projetootimizado\\implementa\u00E7\u00F5es\\calculadoradescontoporfidelidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A0F6DA-1A1E-403E-93EC-983F3BBDAB8E}|4 - ProjetoOtimizado\\4 - ProjetoOtimizado.csproj|solutionrelative:4 - projetootimizado\\implementa\u00E7\u00F5es\\calculadoradescontoporfidelidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A0F6DA-1A1E-403E-93EC-983F3BBDAB8E}|4 - ProjetoOtimizado\\4 - ProjetoOtimizado.csproj|c:\\users\\fabri\\source\\repos\\cleancode\\4 - projetootimizado\\implementa\u00E7\u00F5es\\strategy\\descontoclientevip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A0F6DA-1A1E-403E-93EC-983F3BBDAB8E}|4 - ProjetoOtimizado\\4 - ProjetoOtimizado.csproj|solutionrelative:4 - projetootimizado\\implementa\u00E7\u00F5es\\strategy\\descontoclientevip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81A0F6DA-1A1E-403E-93EC-983F3BBDAB8E}|4 - ProjetoOtimizado\\4 - ProjetoOtimizado.csproj|c:\\users\\fabri\\source\\repos\\cleancode\\4 - projetootimizado\\implementa\u00E7\u00F5es\\factory\\calculadoradescontosatutscontafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81A0F6DA-1A1E-403E-93EC-983F3BBDAB8E}|4 - ProjetoOtimizado\\4 - ProjetoOtimizado.csproj|solutionrelative:4 - projetootimizado\\implementa\u00E7\u00F5es\\factory\\calculadoradescontosatutscontafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 196,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cal1.cs",
+              "DocumentMoniker": "C:\\Users\\fabri\\source\\repos\\CleanCode\\0 - ProjetoNaoOtimizado\\cal1.cs",
+              "RelativeDocumentMoniker": "0 - ProjetoNaoOtimizado\\cal1.cs",
+              "ToolTip": "C:\\Users\\fabri\\source\\repos\\CleanCode\\0 - ProjetoNaoOtimizado\\cal1.cs",
+              "RelativeToolTip": "0 - ProjetoNaoOtimizado\\cal1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:50:16.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fabri\\source\\repos\\CleanCode\\0 - ProjetoNaoOtimizado\\Program.cs",
+              "RelativeDocumentMoniker": "0 - ProjetoNaoOtimizado\\Program.cs",
+              "ToolTip": "C:\\Users\\fabri\\source\\repos\\CleanCode\\0 - ProjetoNaoOtimizado\\Program.cs",
+              "RelativeToolTip": "0 - ProjetoNaoOtimizado\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:50:13.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculadoraDeDEscontoTests.cs",
+              "DocumentMoniker": "C:\\Users\\fabri\\source\\repos\\CleanCode\\5 - CleanCode_Tests\\CalculadoraDeDEscontoTests.cs",
+              "RelativeDocumentMoniker": "5 - CleanCode_Tests\\CalculadoraDeDEscontoTests.cs",
+              "ToolTip": "C:\\Users\\fabri\\source\\repos\\CleanCode\\5 - CleanCode_Tests\\CalculadoraDeDEscontoTests.cs",
+              "RelativeToolTip": "5 - CleanCode_Tests\\CalculadoraDeDEscontoTests.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:12:12.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\fabri\\source\\repos\\CleanCode\\5 - CleanCode_Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "5 - CleanCode_Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\fabri\\source\\repos\\CleanCode\\5 - CleanCode_Tests\\UnitTest1.cs",
+              "RelativeToolTip": "5 - CleanCode_Tests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:11:36.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "4 - ProjetoOtimizado",
+              "DocumentMoniker": "C:\\Users\\fabri\\source\\repos\\CleanCode\\4 - ProjetoOtimizado\\4 - ProjetoOtimizado.csproj",
+              "RelativeDocumentMoniker": "4 - ProjetoOtimizado\\4 - ProjetoOtimizado.csproj",
+              "ToolTip": "C:\\Users\\fabri\\source\\repos\\CleanCode\\4 - ProjetoOtimizado\\4 - ProjetoOtimizado.csproj",
+              "RelativeToolTip": "4 - ProjetoOtimizado\\4 - ProjetoOtimizado.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-04T17:56:17.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StatusDaConta.cs",
+              "DocumentMoniker": "C:\\Users\\fabri\\source\\repos\\CleanCode\\4 - ProjetoOtimizado\\StatusDaConta.cs",
+              "RelativeDocumentMoniker": "4 - ProjetoOtimizado\\StatusDaConta.cs",
+              "ToolTip": "C:\\Users\\fabri\\source\\repos\\CleanCode\\4 - ProjetoOtimizado\\StatusDaConta.cs",
+              "RelativeToolTip": "4 - ProjetoOtimizado\\StatusDaConta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:49:37.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fabri\\source\\repos\\CleanCode\\4 - ProjetoOtimizado\\Program.cs",
+              "RelativeDocumentMoniker": "4 - ProjetoOtimizado\\Program.cs",
+              "ToolTip": "C:\\Users\\fabri\\source\\repos\\CleanCode\\4 - ProjetoOtimizado\\Program.cs",
+              "RelativeToolTip": "4 - ProjetoOtimizado\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:49:35.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Constantes.cs",
+              "DocumentMoniker": "C:\\Users\\fabri\\source\\repos\\CleanCode\\4 - ProjetoOtimizado\\Constantes.cs",
+              "RelativeDocumentMoniker": "4 - ProjetoOtimizado\\Constantes.cs",
+              "ToolTip": "C:\\Users\\fabri\\source\\repos\\CleanCode\\4 - ProjetoOtimizado\\Constantes.cs",
+              "RelativeToolTip": "4 - ProjetoOtimizado\\Constantes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:49:32.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CalculadoraDeDesconto.cs",
+              "DocumentMoniker": "C:\\Users\\fabri\\source\\repos\\CleanCode\\4 - ProjetoOtimizado\\CalculadoraDeDesconto.cs",
+              "RelativeDocumentMoniker": "4 - ProjetoOtimizado\\CalculadoraDeDesconto.cs",
+              "ToolTip": "C:\\Users\\fabri\\source\\repos\\CleanCode\\4 - ProjetoOtimizado\\CalculadoraDeDesconto.cs",
+              "RelativeToolTip": "4 - ProjetoOtimizado\\CalculadoraDeDesconto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:49:28.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICalculadoraDescontoSatutsContaFactory.cs",
+              "DocumentMoniker": "C:\\Users\\fabri\\source\\repos\\CleanCode\\4 - ProjetoOtimizado\\Interfaces\\ICalculadoraDescontoSatutsContaFactory.cs",
+              "RelativeDocumentMoniker": "4 - ProjetoOtimizado\\Interfaces\\ICalculadoraDescontoSatutsContaFactory.cs",
+              "ToolTip": "C:\\Users\\fabri\\source\\repos\\CleanCode\\4 - ProjetoOtimizado\\Interfaces\\ICalculadoraDescontoSatutsContaFactory.cs",
+              "RelativeToolTip": "4 - ProjetoOtimizado\\Interfaces\\ICalculadoraDescontoSatutsContaFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:49:25.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICalculadoraDescontoPorFidelidade.cs",
+              "DocumentMoniker": "C:\\Users\\fabri\\source\\repos\\CleanCode\\4 - ProjetoOtimizado\\Interfaces\\ICalculadoraDescontoPorFidelidade.cs",
+              "RelativeDocumentMoniker": "4 - ProjetoOtimizado\\Interfaces\\ICalculadoraDescontoPorFidelidade.cs",
+              "ToolTip": "C:\\Users\\fabri\\source\\repos\\CleanCode\\4 - ProjetoOtimizado\\Interfaces\\ICalculadoraDescontoPorFidelidade.cs",
+              "RelativeToolTip": "4 - ProjetoOtimizado\\Interfaces\\ICalculadoraDescontoPorFidelidade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:49:23.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICalculadoraDesconto.cs",
+              "DocumentMoniker": "C:\\Users\\fabri\\source\\repos\\CleanCode\\4 - ProjetoOtimizado\\Interfaces\\ICalculadoraDesconto.cs",
+              "RelativeDocumentMoniker": "4 - ProjetoOtimizado\\Interfaces\\ICalculadoraDesconto.cs",
+              "ToolTip": "C:\\Users\\fabri\\source\\repos\\CleanCode\\4 - ProjetoOtimizado\\Interfaces\\ICalculadoraDesconto.cs",
+              "RelativeToolTip": "4 - ProjetoOtimizado\\Interfaces\\ICalculadoraDesconto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:49:20.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CalculadoraDescontoPorFidelidade.cs",
+              "DocumentMoniker": "C:\\Users\\fabri\\source\\repos\\CleanCode\\4 - ProjetoOtimizado\\Implementa\u00E7\u00F5es\\CalculadoraDescontoPorFidelidade.cs",
+              "RelativeDocumentMoniker": "4 - ProjetoOtimizado\\Implementa\u00E7\u00F5es\\CalculadoraDescontoPorFidelidade.cs",
+              "ToolTip": "C:\\Users\\fabri\\source\\repos\\CleanCode\\4 - ProjetoOtimizado\\Implementa\u00E7\u00F5es\\CalculadoraDescontoPorFidelidade.cs",
+              "RelativeToolTip": "4 - ProjetoOtimizado\\Implementa\u00E7\u00F5es\\CalculadoraDescontoPorFidelidade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:49:14.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DescontoClienteVip.cs",
+              "DocumentMoniker": "C:\\Users\\fabri\\source\\repos\\CleanCode\\4 - ProjetoOtimizado\\Implementa\u00E7\u00F5es\\Strategy\\DescontoClienteVip.cs",
+              "RelativeDocumentMoniker": "4 - ProjetoOtimizado\\Implementa\u00E7\u00F5es\\Strategy\\DescontoClienteVip.cs",
+              "ToolTip": "C:\\Users\\fabri\\source\\repos\\CleanCode\\4 - ProjetoOtimizado\\Implementa\u00E7\u00F5es\\Strategy\\DescontoClienteVip.cs",
+              "RelativeToolTip": "4 - ProjetoOtimizado\\Implementa\u00E7\u00F5es\\Strategy\\DescontoClienteVip.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:49:10.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DescontoClientePadrao.cs",
+              "DocumentMoniker": "C:\\Users\\fabri\\source\\repos\\CleanCode\\4 - ProjetoOtimizado\\Implementa\u00E7\u00F5es\\Strategy\\DescontoClientePadrao.cs",
+              "RelativeDocumentMoniker": "4 - ProjetoOtimizado\\Implementa\u00E7\u00F5es\\Strategy\\DescontoClientePadrao.cs",
+              "ToolTip": "C:\\Users\\fabri\\source\\repos\\CleanCode\\4 - ProjetoOtimizado\\Implementa\u00E7\u00F5es\\Strategy\\DescontoClientePadrao.cs",
+              "RelativeToolTip": "4 - ProjetoOtimizado\\Implementa\u00E7\u00F5es\\Strategy\\DescontoClientePadrao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:49:06.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DescontoClienteOuro.cs",
+              "DocumentMoniker": "C:\\Users\\fabri\\source\\repos\\CleanCode\\4 - ProjetoOtimizado\\Implementa\u00E7\u00F5es\\Strategy\\DescontoClienteOuro.cs",
+              "RelativeDocumentMoniker": "4 - ProjetoOtimizado\\Implementa\u00E7\u00F5es\\Strategy\\DescontoClienteOuro.cs",
+              "ToolTip": "C:\\Users\\fabri\\source\\repos\\CleanCode\\4 - ProjetoOtimizado\\Implementa\u00E7\u00F5es\\Strategy\\DescontoClienteOuro.cs",
+              "RelativeToolTip": "4 - ProjetoOtimizado\\Implementa\u00E7\u00F5es\\Strategy\\DescontoClienteOuro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:49:02.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DescontoClienteEspecial.cs",
+              "DocumentMoniker": "C:\\Users\\fabri\\source\\repos\\CleanCode\\4 - ProjetoOtimizado\\Implementa\u00E7\u00F5es\\Strategy\\DescontoClienteEspecial.cs",
+              "RelativeDocumentMoniker": "4 - ProjetoOtimizado\\Implementa\u00E7\u00F5es\\Strategy\\DescontoClienteEspecial.cs",
+              "ToolTip": "C:\\Users\\fabri\\source\\repos\\CleanCode\\4 - ProjetoOtimizado\\Implementa\u00E7\u00F5es\\Strategy\\DescontoClienteEspecial.cs",
+              "RelativeToolTip": "4 - ProjetoOtimizado\\Implementa\u00E7\u00F5es\\Strategy\\DescontoClienteEspecial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:48:58.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CalculadoraDeDesconto.cs",
+              "DocumentMoniker": "C:\\Users\\fabri\\source\\repos\\CleanCode\\3 - SegundaETerceiraMelhoria\\CalculadoraDeDesconto.cs",
+              "RelativeDocumentMoniker": "3 - SegundaETerceiraMelhoria\\CalculadoraDeDesconto.cs",
+              "ToolTip": "C:\\Users\\fabri\\source\\repos\\CleanCode\\3 - SegundaETerceiraMelhoria\\CalculadoraDeDesconto.cs",
+              "RelativeToolTip": "3 - SegundaETerceiraMelhoria\\CalculadoraDeDesconto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:48:40.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CalculadoraDescontoSatutsContaFactory.cs",
+              "DocumentMoniker": "C:\\Users\\fabri\\source\\repos\\CleanCode\\4 - ProjetoOtimizado\\Implementa\u00E7\u00F5es\\Factory\\CalculadoraDescontoSatutsContaFactory.cs",
+              "RelativeDocumentMoniker": "4 - ProjetoOtimizado\\Implementa\u00E7\u00F5es\\Factory\\CalculadoraDescontoSatutsContaFactory.cs",
+              "ToolTip": "C:\\Users\\fabri\\source\\repos\\CleanCode\\4 - ProjetoOtimizado\\Implementa\u00E7\u00F5es\\Factory\\CalculadoraDescontoSatutsContaFactory.cs",
+              "RelativeToolTip": "4 - ProjetoOtimizado\\Implementa\u00E7\u00F5es\\Factory\\CalculadoraDescontoSatutsContaFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:48:20.297Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

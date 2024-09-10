@@ -1,0 +1,4 @@
+C:\Users\fabri\source\repos\CleanCode\3 - SegundaETerceiraMelhoria\obj\Debug\net8.0\3 - SegundaETerceiraMelhoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabri\source\repos\CleanCode\3 - SegundaETerceiraMelhoria\obj\Debug\net8.0\3 - SegundaETerceiraMelhoria.AssemblyInfoInputs.cache
+C:\Users\fabri\source\repos\CleanCode\3 - SegundaETerceiraMelhoria\obj\Debug\net8.0\3 - SegundaETerceiraMelhoria.AssemblyInfo.cs
+C:\Users\fabri\source\repos\CleanCode\3 - SegundaETerceiraMelhoria\obj\Debug\net8.0\3 - SegundaETerceiraMelhoria.csproj.CoreCompileInputs.cache
